@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array
+		name="broj_citata_po_strani">
+		<item>46</item>
+		<item>40</item>
+	</integer-array>
+	<array
+		name="citat">
+		<item>Sve je voda.</item>
+		<item>Broj je suština svega</item>
+		<item>Sve teče – panta rei.</item>
+		<item>Nije moguće dva puta stupiti u istu reku.</item>
+		<item>Sve nastaje s razlogom i po nužnosti.</item>
+        <item>Čovek je mera svih stvari, onih koje jesu da jesu, i onih koje nisu da nisu. Kako se nešto meni čini, tako je to za mene, a kako se tebi čini, tako je to za tebe.</item>
+        <item>Nema istine, a da je ima, ne bi se mogla saznati, a kad bi se mogla saznati, ne bi se mogla iskazati.</item>
+        <item>Pravednost nije ništa drugo nego korist jačega.</item>
+        <item>Znam da ništa ne znam.</item>
+        <item>Upoznaj samog sebe.</item>
+        <item>Smisao života je vrlina i poštovanje zakona.</item>
+        <item>Razborit čovek mora dizati svoj glas ako mu se čini da se državom loše upravlja, ali samo onda ako mu ne preti smrt.</item>
+        <item>Sve dok vladari ne postanu filozofi ili filozofi vladari, svet neće biti bolji.</item>
+        <item>Umetnost je treća od istine ... senka senke... kopija kopije.</item>
+        <item>Platon mi je drag, no istina mi je još draža.</item>
+        <item>Čovek stvara čoveka.</item>
+        <item>Istina je podudaranje pojma i istine.</item>
+        <item>Čovek je zoon politikon jer ko ne može živeti u zajednici ili je čak ne treba, jer je sam sebi dovoljan, taj nije član države, i prema tome je zver ili bog.</item>
+        <item>Vrlina je sposobnost volje da se drži zlatne sredine.</item>
+        <item>Tregedija je oponašanje ozbiljne radnje... a izazivanjem sažaljenja i straha pročišćuje takve afekte. (Katarza – oplemenjenje duše)</item>
+        <item>Mudracu je domovina čitav svet. (Ideja kosmopolitizma.)</item>
+        <item>Blažen je onaj koji se zadovoljava onim što ima.</item>
+        <item>Nije siromašan onaj ko malo ima nego onaj koji želi više.</item>
+        <item>Sudbina vodi one koji to hoće, a vuče one koji to neće.</item>
+        <item>Dok smo mi, nema smrti; a kad nastupi smrt, tada više nema nas.</item>
+        <item>Verujem, jer je apsurdno.</item>
+        <item>Istina ne može protivrečiti istini.</item>
+        <item>Filozofija je sluškinja teologije.</item>
+        <item>Entiteti se ne smeju umnožavati više nego što je potrebno.</item>
+        <item>Svemir je beskonačan, u njemu postoji mnoštvo svetova.</item>
+        <item>Nema neba nad nama mi smo već na nebu, samo od čoveka zavisi da li će zemaljski raj i izgraditi. (Svako je kovač svoje sudbine.)</item>
+        <item>Znanje je moć.</item>
+        <item>Mislim, dakle jesam. (Cogito, ergo sum.)</item>
+        <item>Čovek je supstanca čija je čitava suština ili priroda u tome da samo misli.</item>
+        <item>Red i veza ideja isti su kao i red i veza stvari.</item>
+        <item>U slobodnoj državi svima je dopušteno da misle što hoće i da govore šta misle.</item>
+        <item>Ovo je najbolji mogući svet.</item>
+        <item>U razumu nema ničega što pre nije bilo u čulima, osim razuma samog.</item>
+        <item>Čovek je čoveku vuk.</item>
+        <item>U prirodnom stanju vlada rat svih protiv sviju.</item>
+        <item>Nema ničeg u razumu što pre toga nije bilo u čulima.</item>
+        <item>Razum mora biti naš najviši sudija i vodič u svemu.</item>
+        <item>Kad bog ne bi postojao, trebalo bi ga izmisliti.</item>
+        <item>Uništite bestidnicu. (crkvu)</item>
+        <item>Vratimo se prirodi!</item>
+        <item>Čovek se rađa slobodan, a svuda je u okovima.</item>
+        <item>Šta mogu da znam? Šta treba da činim? Čemu mogu da se nadam? Šta je čovek?</item>
+        <item>Radi samo prema onoj maksimi za koju ujedno možeš hteti da tvojom voljom postane opšti zakon. Radi tako da ljudskost i u tvojoj osobi i u osobi svakog drugog uvek uzimaš kao cilj, a nikada amo kao sredstvo.</item>
+        <item>Dve stvari ispunjavaju dušu uvek novim i sve većim divljenjem... zvezdano nebo nada mnom i moralni zakon u meni.</item>
+        <item>Prosvjetiteljstvo je izlaz čoveka iz njegove samoiskrivljene nezrelosti. Imaj hrabrosti da se služiš sopstvenim razumom!</item>
+        <item>Čini pravedno pa nek se sruši svet.</item>
+        <item>Lepo je ono što nam se bezinteresno dopada.</item>
+        <item>Radi tako da bi mogao maksimu svoje volje zamišljati kao večni zakon za sebe.</item>
+        <item>Tvoje delovanje i samo tvoje delovanje određuje tvoju vrednost.</item>
+        <item>Priroda je vidljiv duh, duh je nevidljiva priroda.</item>
+        <item>Početak i kraj svake filozofije jeste sloboda.</item>
+        <item>Lepo je ono što je beskonačno, ali prikazano kao konačno.</item>
+        <item>Filozofija je svoje vreme mislima obuhvaćeno.</item>
+        <item>Lepo je čulni privid ideje.</item>
+        <item>Ono što protivreči srcu ne ulazi u glavu.</item>
+        <item>Volja je gospodar, a intelekt sluga.</item>
+        <item>Ovo je najgori od svih mogućih svetova.</item>
+        <item>Svetska istorija besciljno je lutanje.</item>
+        <item>Sunce žeže večito podne.</item>
+        <item>Ono što u mojoj filozofiji nije moje, to je pogrešno.</item>
+        <item>Istina je istina samo kada je istina za mene.</item>
+        <item>Obeležje je malih duhova da preziru ono što ne razumeju.</item>
+        <item>Život se mora živeti unapred, ali može se razumeti samo unazad.</item>
+        <item>Šta je majmun za čoveka? Podsmeh ili bolan stid. I upravo to treba da bude čovek za natčoveka...</item>
+        <item>Bog je mrtav. Nadčovek je smisao zemlje.</item>
+        <item>Ne štedite bližnjeg svoga, koga ne možete naučiti da leti, toga naučite brzo da pada.</item>
+        <item>Filozofija se ne može ostvariti bez ukidanja proleterijata, proleterijat se ne može ukinuti bez ostvarenja filozofije.</item>
+        <item>Čovek je otuđeno biće.</item>
+        <item>Religija je opijum za narod.</item>
+        <item>Tragično je što su glupaci toliko sigurni, a mudri puni sumnje.</item>
+        <item>Samo glupi i mrtvi nikada ne menjaju svoje mišljenje.</item>
+        <item>Ono što se uopšte može reći, može se reći jasno; a ono o čemu se ne može govoriti, o tome se mora ćutati.</item>
+        <item>Bolji je gram iskustva, nego tovar teorija.</item>
+        <item>Srce ima svoje razloge... o kojima razum ništa ne zna i nikada ne može nešto znati.</item>
+        <item>U svetu bez iluzija čovek je stranac.</item>
+        <item>Filozofija znači: biti na putu. Njena su pitanja bitnija od njenih odgovora, a svaki se odgovor ponovno pretvara u novo pitanje.</item>
+        <item>Čovek jedini egzistira. Stablo postoji, ali ne egzistira.</item>
+        <item>Čovek je pastir bitka.</item>
+        <item>Čovek je osuđen da bude slobodan.</item>
+        <item>Čovek je odgovoran za ono što jeste. Osuđen, jer nije sam sebe stvorio - a ipak je slobodan. Jer, kad je jednom bačen u svet, odgovoran je za sve što čini. Uvek za kukavicu postoji mogućnost da više ne bude kukavica, a za heroja da prestane biti heroj.</item>
+        <item>Jedini cilj zbog koga se sila može pravedno vršiti nad bilo kojim članom civilizovane zajednice, a protiv njegove volje, jeste da se spreči zlo drugima. Njegovo sopstveno dobro, bilo fizičko bilo moralno, ne predstavlja dovoljno ovlašćenje.</item>
+        <item>Humanizam je odrastao u utopiji.</item>
+        <item>Homo homini homo. - Čovek je čoveku čovek.</item>
+	</array>
+	<array
+		name="autor">
+            <item>Tales</item>
+            <item>Pitagora</item>
+            <item>Heraklit</item>
+            <item>Heraklit</item>
+            <item>Atomisti</item>
+            <item>Protagora</item>
+            <item>Gorgija</item>
+            <item>Trasimah</item>
+            <item>Sokrat</item>
+            <item>Sokrat</item>
+            <item>Sokrat</item>
+            <item>Platon</item>
+            <item>Platon</item>
+            <item>Platon</item>
+            <item>Aristotel</item>
+            <item>Aristotel</item>
+            <item>Aristotel</item>
+            <item>Aristotel</item>
+            <item>Aristotel</item>
+            <item>Aristotel</item>
+            <item>Stoici</item>
+            <item>Stoici</item>
+            <item>Stoici</item>
+            <item>Stoici</item>
+            <item>Epikur</item>
+            <item>Tertulijan</item>
+            <item>Toma Akvinski</item>
+            <item>Toma Akvinski</item>
+            <item>Vilijam Okam</item>
+            <item>Đordano Bruno</item>
+            <item>Đordano Bruno</item>
+            <item>Fransis Bekon</item>
+            <item>Dekart</item>
+            <item>Dekart</item>
+            <item>Spinoza</item>
+            <item>Spinoza</item>
+            <item>Lajbnic</item>
+            <item>Lajbnic</item>
+            <item>Hobs</item>
+            <item>Hobs</item>
+            <item>Lok</item>
+            <item>Lok</item>
+            <item>Volter</item>
+            <item>Volter</item>
+            <item>Ruso</item>
+            <item>Ruso</item>
+            <item>Kant</item>
+            <item>Kant</item>
+            <item>Kant</item>
+            <item>Kant</item>
+            <item>Kant</item>
+            <item>Kant</item>
+            <item>Fihte</item>
+            <item>Fihte</item>
+            <item>Šeling</item>
+            <item>Šeling</item>
+            <item>Šeling</item>
+            <item>Hegel</item>
+            <item>Hegel</item>
+            <item>Šopenhauer</item>
+            <item>Šopenhauer</item>
+            <item>Šopenhauer</item>
+            <item>Šopenhauer</item>
+            <item>Šopenhauer</item>
+            <item>Kjerkegor</item>
+            <item>Kjerkegor</item>
+            <item>Kjerkegor</item>
+            <item>Kjerkegor</item>
+            <item>Niče</item>
+            <item>Niče</item>
+            <item>Niče</item>
+            <item>Marks</item>
+            <item>Marks</item>
+            <item>Marks</item>
+            <item>Rasel</item>
+            <item>Rasel</item>
+            <item>Vitgenštajn</item>
+            <item>Pragmatizam (Djui)</item>
+            <item>Šeler</item>
+            <item>Kami</item>
+            <item>Jaspers</item>
+            <item>Hajdeger</item>
+            <item>Hajdeger</item>
+            <item>Sartr</item>
+            <item>Sartr</item>
+            <item>Mil</item>
+            <item>Bloh</item>
+            <item>Mil</item>
+	</array>
+
+</resources>

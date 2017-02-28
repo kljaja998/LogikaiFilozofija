@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array
+			name="filozofijaBrojPojmovaPoStrani">
+			<item>28</item>
+			<item>29</item>
+			<item>29</item>
+			<item>27</item>
+	</integer-array>
+	<array
+		name="filozofijaPojam">
+		<item>filozofija</item>
+		<item>metodologija</item>
+		<item>biće(bitak)</item>
+		<item>mit</item>
+		<item>logos</item>
+		<item>metafizika</item>
+		<item>ontologija</item>
+		<item>monizam</item>
+		<item>dualizam</item>
+		<item>pluralizam</item>
+		<item>materijalizam</item>
+		<item>idealizam</item>
+		<item>teorija saznanja</item>
+		<item>empirizam</item>
+		<item>senzualizam</item>
+		<item>racionalizam</item>
+		<item>intuicionizam</item>
+		<item>iracionalizam</item>
+		<item>dogmatizam</item>
+		<item>skepticizam</item>
+		<item>kriticizam</item>
+		<item>etika</item>
+		<item>heteronomna etika</item>
+		<item>autonomna etika</item>
+		<item>eudajmonizam</item>
+		<item>hedonizam</item>
+		<item>utilitarizam</item>
+		<item>estetika</item>
+		<item>antropologija</item>
+		<item>istorija filozofije</item>
+		<item>antička filozofija</item>
+		<item>srednjovekovna filozofija</item>
+		<item>novovekovna (moderna) filozofija</item>
+		<item>savremena filozofija</item>
+		<item>arhe (praelement)</item>
+		<item>apejron</item>
+		<item>aporija</item>
+		<item>homeomerija</item>
+		<item>atom</item>
+		<item>determinizam</item>
+		<item>kosmos</item>
+		<item>fizis</item>
+		<item>mračno saznanje</item>
+		<item>pravo saznanje</item>
+		<item>sofist</item>
+		<item>sofistika</item>
+		<item>nihilizam</item>
+		<item>relativizam</item>
+		<item>eristika</item>
+		<item>ironija</item>
+		<item>majeutika</item>
+		<item>ideja</item>
+		<item>anamneza</item>
+		<item>mimezis</item>
+		<item>&quot;podvostručenje svetova&quot;</item>
+		<item>zlatna sredina</item>
+		<item>politika</item>
+		<item>dobra vladavina</item>
+		<item>katarza</item>
+		<item>askeza</item>
+		<item>apatija</item>
+		<item>ataraksija</item>
+		<item>kosmopolitizam</item>
+		<item>eklekticizam</item>
+		<item>gnostici</item>
+		<item>apologeti</item>
+		<item>patristika</item>
+		<item>voluntarizam</item>
+		<item>sholastika</item>
+		<item>dogma</item>
+		<item>egzistencija</item>
+		<item>esencija</item>
+		<item>transcendirati</item>
+		<item>univerzalije</item>
+		<item>kontemplacija</item>
+		<item>renesansa</item>
+		<item>humanizam</item>
+		<item>utopija</item>
+		<item>antropocentrizam</item>
+		<item>individualizam</item>
+		<item>racionalizam</item>
+		<item>urođene ideje</item>
+		<item>res cogitans</item>
+		<item>res extensa</item>
+		<item>panteizam</item>
+		<item>atribut</item>
+		<item>modusi</item>
+		<item>monade</item>
+		<item>predodređena harmonija</item>
+		<item>teodiceja</item>
+		<item>idoli</item>
+		<item>solipsizam</item>
+		<item>agnosticizam</item>
+		<item>prirodno stanje</item>
+		<item>prirodno pravo</item>
+		<item>društveni ugovor</item>
+		<item>liberalizam</item>
+		<item>suverenitet</item>
+		<item>tolerancija</item>
+		<item>deizam</item>
+		<item>a posteriori</item>
+		<item>a priori</item>
+		<item>transcendentalno</item>
+		<item>transcendentno</item>
+		<item>kategorički imperativ</item>
+		<item>sloboda</item>
+		<item>fenomenologija</item>
+		<item>panlogizam</item>
+		<item>imoralizam</item>
+		<item>nirvana</item>
+		<item>analitička filozofija</item>
+		<item>filozofija egzistencije</item>
+		<item>autentičan</item>
+	</array>
+	<array
+		name="filozofijaObjasnjenje">
+		<item>ljubav prema mudrosti</item>
+		<item>nauka o naučnim metodama</item>
+		<item>suština svega postojećeg, osnov svega što postoji</item>
+		<item>simbolična priča o nastanku sveta</item>
+		<item>reč, misao, razum, zakon, razložan govor</item>
+		<item>učenje o prvim uzrocima, o osnovnim principima stvarnosti</item>
+		<item>nauka o biću kao biću, opšta metafizika</item>
+		<item>filozofski pravac koji uči da se u osnovi svega nalazi jedan princip</item>
+		<item>filozofski pravac koji uči da se u osnovi svega nalaze dva principa</item>
+		<item>filozofski pravac koji uči da se u osnovi svega nalazi više principa</item>
+		<item>filozofski pravac koji uči da je osnova sveta materijalna</item>
+		<item>filozofski pravac koji uči da je osnova sveta duhovna</item>
+		<item>filozofska disciplina koja proučava poreklo, izvesnost i domet ljudskog znanja</item>
+		<item>fil. pravac koji uči da je iskustvo izvor saznanja</item>
+		<item>fil. pravac koji uči da je čulno iskustvo izvor saznanja</item>
+		<item>fil. pravac koji uči da je razum osnov saznanja</item>
+		<item>fil. pravac koji uči da je intuicija, neposredan uvid izvor saznanja</item>
+		<item>fil. pravac koji uči da je nešto nerazumno izvor saznanja (volja, ekstaza)</item>
+		<item>uči da je moguće saznati istinu, prihvatiti je bez proveravanja</item>
+		<item>dovodi u pitanje mogućnost sigurnog saznanja istine</item>
+		<item>zahteva ispitivanje granica saznanja pre njegove upotrebe</item>
+		<item>nauka o moralu</item>
+		<item>smatra da je izvor morala izvan čoveka</item>
+		<item>smatra da je izvor morala u čoveku</item>
+		<item>svrha moralnog delovanja je sreća</item>
+		<item>svrha moralnog delovanja je uživanje</item>
+		<item>svrha moralnog delovanja je korist</item>
+		<item>nauka o lepom u umetnosti</item>
+		<item>nauka o čoveku</item>
+		<item>fil. disciplina koja izlaže razvoj fil. shvatanja kroz istoriju</item>
+		<item>VII vpne - 529. god kada car Justinijan zatvara filozofske škole u Atini</item>
+		<item>od 529. god do XV veka</item>
+		<item>od XV veka do Hegelove smrti 1831. god</item>
+		<item>od 1831. god do danas</item>
+		<item>kod presokratovaca, koren, princip iz kojeg sve proishodi</item>
+		<item>neograničeno, beskonačno</item>
+		<item>paradoks, duhovito smišljena nedoumica</item>
+		<item>jednako deljiva čestica materije</item>
+		<item>nedeljivo; pratelo svega postojećeg</item>
+		<item>određenost, uslovljenost nekim pravilom</item>
+		<item>red, uređenje, ukras, vasiona, svemir</item>
+		<item>priroda, prirodno uređenje, prirodna sila, svet</item>
+		<item>čulno, lažno saznanje</item>
+		<item>razumsko, istinito saznanje</item>
+		<item>mudrac, učen čovek, znalac</item>
+		<item>obrazovanje državnika (gramatika, retorika i dijalektika), vremenom oznaka za prevaru</item>
+		<item>poništavanje mogućnosti sticanja znanja, vere ili vrednosti</item>
+		<item>odsustvo opšte važećih kriterijuma saznanja i moralnih normi</item>
+		<item>veština prepiranja, zaključivanje ne radi istine, već radi pobede nad suparnikom</item>
+		<item>pretvaranje u govoru; kod Sokrata pokazivanje da ne znamo ono što mislimo da znamo</item>
+		<item>babička veština, &quot;porađanja pojmova&quot; iz &quot;trudnog uma čoveka&quot; pomoću pitanja i odgovora</item>
+		<item>kod Platona, forma, oblik; izvor, uzor i uzrok svega što postoji; biće</item>
+		<item>ponovo sećanje besmrtne duše na ideje posle reinkarnacije (seobe duše u novo telo)</item>
+		<item>oponašanje; umetnost imitira stvarnost koja imitira ideje (kopija kopije, senka senke)</item>
+		<item>Platon smatra da postoji svet ideja i naš svet, Aristotel ga kritukuje, kaže da ideje pripadaju stvarima, da nema opšteg (ideja) izvan pojedinačnog (stvari), da su ideje pojmovi</item>
+		<item>najbolja ili tačna mera udaljenosti između dve krajnosti</item>
+		<item>nauka o državnom uređenju</item>
+		<item>vladavina u kojoj oni na vlasti imaju za cilj opšte dobro</item>
+		<item>pročišćenje, oplemenjenje duše od afekata ( kada gledanje tragedije izazove sažaljenje)</item>
+		<item>uzdržavanje od zadovoljenja čulnih potreba i njihovo svođenje na najmanju moguću meru</item>
+		<item>ravnodušnost</item>
+		<item>duševni mir, unutrašnja nezavisnost; mudrac se ne boji gubitka bilo čega jer je apatičan</item>
+		<item>stanovište po kome svi ljudi jednako vrede jer su građani sveta</item>
+		<item>povezivanje delova različitih, već poznatih, filozofskih učenja u novu celinu</item>
+		<item>hrišćanska sekta koja pokušava znanjem da dođe do istina vere</item>
+		<item>branioci hrišćanskog učenja od pagana</item>
+		<item>učenje koje su razvijali hrišćanski oci da odbrane hrišćanstva od jeretičkih tumačenja</item>
+		<item>učenje da je volja suštinska, primarna moć u čoveku (a ne razum)</item>
+		<item>srednjovekovna hrišćanska filozofija koja se bavi odnosom vere i razuma</item>
+		<item>pravoverni (istinski) smisao hrišćanskog učenja</item>
+		<item>postojanje, ostvarenje neke stvari</item>
+		<item>suština, priroda nečeg, biće</item>
+		<item>prevazilaziti iskustvo</item>
+		<item>opšti pojmovi, ideje, sve što je opšte</item>
+		<item>misaono posmatranje, udubljivanje</item>
+		<item>preporod; razdoblje u razvoju evropske istorije i kulture od XIV do XVI veka</item>
+		<item>kulturno-istorijski pokret u Evropi XIV - XVI veka</item>
+		<item> nepostojeće mesto, idealna zamisao društvenog uređenja</item>
+		<item>shvatanje po kojem je čovek središte sveta i krajnja svrha njegovog razvitka</item>
+		<item>stanovište koje naglašava vrednost ličnosti nasuprot pripadanju nekoj opštosti</item>
+		<item>učenje po kome su jedini pravi izvori saznanja nezavisni u odnosu na iskustvo</item>
+		<item>pojmovi i principi koji su potencijalno sadržani u ljudskom duhu pre iskustva</item>
+		<item>kod Dekarta misleća stvar, duhovna supstancija</item>
+		<item>kod Dekarta, protežna stvar, odnosno telesna, materijalna priroda</item>
+		<item>bog nije izvan stvarnosti, već je sama stvarnost; sve je bog i bog je sve.</item>
+		<item>bitna i stalna svojstva supstancije; kod Spinoze - mišljenje i protežnost</item>
+		<item>nestalni, promenljivi oblici supstancije (stvari)</item>
+		<item>kod Lajbnica su to delatne supstancije koje su obdarene mogućnošću percepcije sveta</item>
+		<item>&quot;monade nemaju prozore&quot;, jedna na drugu ne utiču, već je Bog u trenutku stvaranja sveta uspostavio unapred utvrđenu harmoniju između monada</item>
+		<item>opravdavanje božjeg savršenstva uprkos postojanju zla u svetu</item>
+		<item>kod Bekona, lažne predstave, zablude koje ometaju saznanje</item>
+		<item>ceo svet je samo moja predstava, postoji duh koji opaža i ideje u duhu</item>
+		<item>stanovište prema kome se poriče mogućnost saznavanja sveta</item>
+		<item>stanje koje prethodi državi</item>
+		<item>neotuđiva prava čoveka, prvenstveno pravo na samoodržanje</item>
+		<item>ugovor kojim nastaje država ( pojedinac se odriče prirodnih prava u korist vlasti)</item>
+		<item>politička teorija koja za osnovnu vrednost uzima individualne slobode</item>
+		<item>neograničena, jedinstvena, neotuđiva i vrhunska vlast</item>
+		<item>trpeljivost, podnošljivost različitosti</item>
+		<item>stanovište koje prihvata postojanje Boga ali traži sklad religije i razuma (nauke)</item>
+		<item>kasnije, ono što potiče iz iskustva</item>
+		<item>ranije, ono što postoji pre iskustva, ono što je nezavisno od iskustva</item>
+		<item>kod Kanta, ono što postoji pre iskustva, uslovljava i omogućuje svako saznanje</item>
+		<item>ono što prevazilazi granice iskustva; stvarnost nezavisna od ljudske svesti</item>
+		<item>bezuslovni moralni zakon (zapovest uma)</item>
+		<item>kod Kanta nije moć da činimo šta nam se prohte nego da sami sebi postavljamo granice</item>
+		<item>kod Hegela se odnosi na oblike pojavljivanja uma, odnosno duha u razvoju stvarnosti</item>
+		<item>shvatanje da je celokupna stvarnost, prema umnom zakonu, uređena u jedinstvenu celinu</item>
+		<item>filozofsko stanovište koje odbacuje postojeći moral, kod Ničea</item>
+		<item>iščeznuće individualnosti u stapanju sa osnovom sveta; stanje potpunog duševnog mira</item>
+		<item>pravac u savremenoj fil. koji se bavi analiziranjem naših iskaza</item>
+		<item>pravac u savremenoj fil. koji proučava problem ljudske egzistencije</item>
+		<item>pravi, istinski, izvoran način egzistiranja koji podrazumeva da je čovek preuzeo na sebe odgovornost u izboru prave egzistencije</item>
+	</array>	
+</resources>

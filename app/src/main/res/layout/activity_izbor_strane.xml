@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_izbor_strane"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kljaja.logikaifilozofija.izborStraneActivity">
+
+    <Button
+        android:text="Prva strana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_prvaStrana"
+        android:onClick="bttn_prvaStrana_onClick" />
+
+    <Button
+        android:text="Druga Strana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_prvaStrana"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_drugaStrana"
+        android:onClick="bttn_drugaStrana_onClick" />
+
+    <Button
+        android:text="Prve dve strane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_drugaStrana"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_prveDveStrane"
+        android:onClick="bttn_prveDveStrane_onClick" />
+
+    <Button
+        android:text="Treca strana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_prveDveStrane"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_trecaStrana"
+        android:onClick="bttn_trecaStrana_onClick" />
+
+    <Button
+        android:text="Cetvrta strana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_trecaStrana"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_cetvrtaStrana"
+        android:onClick="bttn_cetvrtaStrana_onClick" />
+
+    <Button
+        android:text="Druge dve strane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_cetvrtaStrana"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_drugeDveStrane"
+        android:onClick="bttn_drugeDveStrane_onClick" />
+
+    <Button
+        android:text="Sve cetiri strane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_drugeDveStrane"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_sveCetiriStrane"
+        android:onClick="bttn_sveCetiriStrane_onClick" />
+</RelativeLayout>

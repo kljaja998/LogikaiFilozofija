@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.kljaja.logikaifilozofija.vezbanjeFragment"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="51dp"
+        android:id="@+id/text_vezbanje_objasnjenjeCitat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_vezbanje_objasnjenjeCitat"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="52dp"
+        android:id="@+id/bttn_vezbanje_opcija1"
+        android:onClick="bttn_vezbanje_opcija1_onClick"
+        android:maxWidth="200dp"/>
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_vezbanje_opcija1"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_vezbanje_opcija2"
+        android:onClick="bttn_vezbanje_opcija2_onClick" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bttn_vezbanje_opcija3"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/bttn_vezbanje_opcija4"
+        android:onClick="bttn_vezbanje_opcija4_onClick" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bttn_vezbanje_opcija3"
+        android:onClick="bttn_vezbanje_opcija3_onClick"
+        android:layout_below="@+id/bttn_vezbanje_opcija2"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:id="@+id/text_vezbanje_rezultat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:text=""
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

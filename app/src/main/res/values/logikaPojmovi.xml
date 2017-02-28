@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer-array
+		name="logikaBrojPojmovaPoStrani">
+		<item>45</item>
+		<item>29</item>
+	</integer-array>
+	<array
+		name="logikaPojam">
+		<item>Logika</item>
+		<item>Logička pravila</item>
+		<item>Podela logike</item>
+		<item>Formalna logika</item>
+		<item>Podela formalne logike</item>
+		<item>Moderna logika</item>
+		<item>Neformalna logika</item>
+		<item>Saznanje</item>
+		<item>Saznanje nekog predmeta</item>
+		<item>Izvori saznanja</item>
+		<item>Intuicija</item>
+		<item>Empirizam</item>
+		<item>Racionalizam</item>
+		<item>Intuicionizam</item>
+		<item>Zdravorazumsko saznanje</item>
+		<item>Skepticizam</item>
+		<item>Solipsizam</item>
+		<item>Jezik</item>
+		<item>Znaci</item>
+		<item>Signali</item>
+		<item>Simboli</item>
+		<item>Očiglednost</item>
+		<item>Svedočanstvo</item>
+		<item>Mnjenje</item>
+		<item>Javno mnjenje</item>
+		<item>Verovanja</item>
+		<item>Uverenja</item>
+		<item>Teorija korespodencije</item>
+		<item>Teorija evidentnosti</item>
+		<item>Teorija koherentnosti</item>
+		<item>Teorija verifikacije</item>
+		<item>Dijalektička teorija istine</item>
+		<item>Elementarna logika</item>
+		<item>Pojam</item>
+		<item>Obrazovanje pojma</item>
+		<item>Apstrakcija</item>
+		<item>Generalizacija (uopštavanje)</item>
+		<item>Termin</item>
+		<item>Obim pojma</item>
+		<item>Sadržaj pojma</item>
+		<item>Pojedinačni pojmovi</item>
+		<item>Opšti pojmovi</item>
+		<item>Kategorije</item>
+		<item>Apstraktni pojmovi</item>
+		<item>Konkretni pojmovi</item>
+		<item>Definicija</item>
+		<item>Nominalne definicije</item>
+		<item>Realne definicije</item>
+		<item>Karakteristična definicija</item>
+		<item>Klasifikacija</item>
+		<item>Deoba</item>
+		<item>Sud</item>
+		<item>Iskaz</item>
+		<item>Predikativni sudovi</item>
+		<item>Relacioni sudovi</item>
+		<item>Zaključivanje</item>
+		<item>Vrste zaključivanja</item>
+		<item>Neposredno zaključivanje</item>
+		<item>Posredno zaključivanje</item>
+		<item>Analogija</item>
+		<item>Zaključivanje po indukciji</item>
+		<item>Potpuna indukcija</item>
+		<item>Nepotpuna indukcija</item>
+		<item>Indukcija prostim nabrajanjem</item>
+		<item>Indukcija eliminacijom</item>
+		<item>Dedukcija</item>
+		<item>Silogizam</item>
+		<item>Zaključivanje a fortiori</item>
+		<item>Implikativni zaključak</item>
+		<item>Modus ponens</item>
+		<item>Modus tolens</item>
+		<item>Polisilogizam</item>
+		<item>Skraćeno deduktivno zaključivanje</item>
+		<item>Dokazivanje</item>
+		<item>Teza</item>
+		<item>Razlozi</item>
+		<item>Vrste dokaza</item>
+		<item>Racionalni</item>
+		<item>Empirijski</item>
+		<item>Direktan dokaz</item>
+		<item>Indirektan dokaz</item>
+		<item>Opovrgavanje</item>
+		<item>Sofizmi i paralogizmi</item>
+		<item>Sofizmi</item>
+		<item>Paralogizmi</item>
+	</array>
+	<array
+		name="logikaObjasnjenje">
+		<item>nauka o saznavanju istine I deo filozofije, filozofska disciplina.</item>
+		<item>koncentrisano iskustvo mišljenja mnogih generacija.</item>
+		<item>formalna i neformalna ili sadržinska logika (metodologija naučnog istraživanja).</item>
+		<item>bavi se korektnošću zaključivanja i dokazivanja.</item>
+		<item>tradicionalna, Aristotelovska logika i moderna simbolička, matematička logika.</item>
+		<item>višesmisleni izrazi običnog jezika kojima se dotle logika služila zamenjeni su u simbolima.</item>
+		<item>rešava problem kako doći do naučnih zakona ako pođemo od iskustvenih činjenica.</item>
+		<item>Saznati neku pojavu stvarnosti znači postati svestan njenih bitnih osobina i odnosa prema drugim pojavama.</item>
+		<item>svest o njenim svojstvima koja uključuje u sebe sposobnost jezičkog opisivanja, objašnjavanja i praktičnog primenjivanja saznatog predmeta.</item>
+		<item>čulno iskustvo (empirizam), razum (racionalizam) i intuicija (intuicionizam).</item>
+		<item>moć neposrednog saznanja suštine predmeta.</item>
+		<item>filozofski pravac koji smatra da je čulno iskustvo najvažniji izvor saznanja.</item>
+		<item>filozofski pravac koji smatra da je razum najvažniji izvor saznanja.</item>
+		<item>filozofski pravac koji smatra da je intuicija najvažniji izvor saznanja.</item>
+		<item>polazi od pretpostavke da nas čula verno obaveštavaju o stvarnosti.</item>
+		<item>filozofsko stanovište koje osporava mogućnost našeg znanja i pita se da li mi možemo uopšte biti sigurni da bilo šta znamo.</item>
+		<item>krajnji oblik skepticizma po kome čovek ne može biti siguran da bilo šta na svetu osim njega samog uopšte postoji.</item>
+		<item>spoljašnja materijalna forma iskustva i mišljenja.</item>
+		<item>materijalni objekti koji osobe koje ih razumeju upućuju na nešto drugo, različito od sebe.</item>
+		<item>znaci I to prirodne pojave.</item>
+		<item>znaci I to veštačke ljudske tvorevine.</item>
+		<item>visok stepen verodostojnosti iskustvenih podataka.</item>
+		<item>verodostojno iskustveno znanje.</item>
+		<item>sirov materijal mišljenja.</item>
+		<item>zdravorazumskim razmišljanjem dobijeni rezultati široko prihvaćeni u jednoj zajednici.</item>
+		<item>izraz emocija i interesa.</item>
+		<item>verovanja pojedinca za koja on smatra da ima dovoljnog razloga da smatra istinitim.</item>
+		<item>Istina je odgovaranje jednog tvrđenja stvarnosti.</item>
+		<item>Istiniti iskazi su praćeni našim osećanjem neposredne očevidnosti.</item>
+		<item>Istiniti iskazi se slažu sa svim ranije prihvaćenim tvrđenjima.</item>
+		<item>Istiniti iskazi mogu biti iskustveno provereni.</item>
+		<item>Kad je jedno smisaono tvrđenje i teorijski dovoljno potkrepljeno i iskustveno provereno onda je istinito i odgovara samoj stvarnosti.</item>
+		<item>proučava tri osnovna elementa mišljenja: pojam, sud i zaključak.</item>
+		<item>istovetni elementi iskustva raznih ljudi pod različitim uslovima koje konstantno vezujemo za jednu reč ili termin.</item>
+		<item>vrši se nizom misaonih operacija, kao što su: upoređivanje, analiza i sinteza, identifikovanje i razlikovanje, apstrakcija i generalizacija.</item>
+		<item>izdvajanje i zanemarivanje svih onih osobina jedne grupe predmeta koje su nebitne, a zadržavanje onoga što je istovetno u većini slučajeva i što karakteriše celu grupu.</item>
+		<item>misaona radnja kojom se osobine apstrahovane na osnovu proučavanja ograničenog broja pojedinačnih slučajeva proširuju i na sve ostale slučajeve iste vrste.</item>
+		<item>jezički izraz pojma.</item>
+		<item>skup pojedinačnih slučajeva na koje se jedan pojam odnosi</item>
+		<item>suštinske osobine predmeta koji spadaju u obim jednog pojma</item>
+		<item>pojmovi koji izražavaju suštinu jednog pojedinačnog predmeta.</item>
+		<item>pojmovi koji odražavaju suštinska svojstva grupe predmeta.</item>
+		<item>najopštiji pojmovi na području jedne određene nauke.</item>
+		<item>pojmovi čiji sadržaj čine samo opšte karakteristike.</item>
+		<item>pojmovi čiji sadržaj čine opšte karakteristike obogaćene specifičnim osobinama.</item>
+		<item>iskaz kojim se određuje sadržaj jednog pojma.</item>
+		<item>definiše se samo reč, ime, nomen, kojim se pojam izražava.</item>
+		<item>govore o samoj stvari, res, na koju se pojam odnosi.</item>
+		<item>naznačivanje najbližeg roda i specifične razlike.</item>
+		<item>određivanje mesta jednog pojma u sistemu pojmova.</item>
+		<item>podela obima opštijih pojmova, rodova na posebnije pojmove, vrste.</item>
+		<item>misaoni oblik kojim se tvrdi izvesna veza dva ili više pojma.</item>
+		<item>jezički izraz suda, rečenica kojom se tvrdi nešto što može biti istinito ili lažno.</item>
+		<item>sastav ovih sudova može se izraziti formulom &quot;S je P“.</item>
+		<item>sastav ovih sudova može se izraziti formulom &quot;Pojmovi A,B,... nalaze se u odnosu R.&quot; gde su R – relacije, odnosi medju pojmovima (prostorni, vremenski, rodbinski).</item>
+		<item>dovođenje u vezu sudova tako da se iz jednog ili više prethodnih sudova – premisa izvede jedan nov sud – zaključak.</item>
+		<item>neposredno (intuicija i opozicija putem logičkog kvadrata) i posredno (analogija, induktivno i deduktivno).</item>
+		<item>kada do zaključka dolazimo neposredno iz jedne premise.</item>
+		<item>kada su potrebne dve premise da bi se jedni pojmovi povezali s drugim, posredstvom trećih koji u zaključku isčezavaju.</item>
+		<item>zaključiti na osnovu toga što su neka dva predmeta ili vrste predmeta slični u nekim osobinama da moraju biti slični i u nekoj drugoj osobini.</item>
+		<item>kada polazimo od pojedinačnih ili posebnih činjenica a u zaključku utvrđujemo jedan opšti sud, na osnovu toga što pojedini članovi jedne vrste imaju neka opšta svojstva, zaključujemo da i vrsta kao celina ima to svojstvo.</item>
+		<item>zaključivanje na osnovu potpunog nabrajanja pojedinačnih slučajeva.</item>
+		<item>na osnovu ispitivanja ograničenog broja slučajeva jedne vrste izvodimo zaključak koji se odnosi na vrstu kao celinu.</item>
+		<item>navođenje izvesnog broja slučajeva neke vrste pojava koji imaju opšte svojstvo, pa se na osnovu toga zaključuje da to svojstvo imaju svi slučajevi te vrste.</item>
+		<item>odbacivanje zaključaka s kojima se opažene činjenice ne slažu.</item>
+		<item>zaključivanje koje polazi od opštih stavova i tvrdi da ono što važi uopšte važi i u posebnom slučaju.</item>
+		<item>specijalna forma dedukcije koja se sastoji iz tri predikativna suda i tri termina i može da gradi 4 figure u zavisnosti od položaja srednjeg termina.</item>
+		<item>zaključivanje “s najjačim razlogom” bavi se ostalim tranzitivnim odnosima (A=B, B=C, Dakle, A=C).</item>
+		<item>zasniva se na logičkim osobinama odnosa uslovljavanja I ima dve osnovne figure: modus ponens i modus tolens.</item>
+		<item>iz tvrđenja uslova zaključuje opravdanost tvrđenja posledice.</item>
+		<item>odriče se posledica, pa iz toga sledi da se mora odreći i uslov.</item>
+		<item>lanac dva ili više obična kategorička silogizma koji su međusobno tako povezani da zaključak jednoga predstavlja premisu drugog.</item>
+		<item>kada iz zaključka ispuštamo premisu ili zaključak koji se podrazumeva.</item>
+		<item>radnja kojom se utvrđuje istinitost jednog suda.</item>
+		<item>sud čiju istinitost treba dokazati.</item>
+		<item>sudovi koji dokazuju tezu.</item>
+		<item>racionalni i empirijski, direktan i indirektan i analitički i sintetički dokaz.</item>
+		<item>dokaz je dobijen putem mišljenja.</item>
+		<item>dokaz je dobijen putem proveravanja u iskustvu.</item>
+		<item>neposredno se dokazuje teza.</item>
+		<item>istinitost teze se dokazuje utvrđivanjem lažnosti antiteze (suprotnog tvrđenja).</item>
+		<item>radnja kojom se utvrđuje lažnost jednog suda.</item>
+		<item>zaključci i dokazi koji prividno izgledaju tačni ali su u stvari lažni.</item>
+		<item>svesne i namerne logičke greške sračunate na to da neupućenog ubede u istinitost jednog lažnog suda.</item>
+		<item>nenamerne logičke greške.</item>
+	</array>
+</resources>
