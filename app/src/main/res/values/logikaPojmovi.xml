@@ -3,7 +3,7 @@
 	<integer-array
 		name="logikaBrojPojmovaPoStrani">
 		<item>45</item>
-		<item>29</item>
+		<item>40</item>
 	</integer-array>
 	<array
 		name="logikaPojam">

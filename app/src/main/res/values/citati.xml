@@ -3,7 +3,7 @@
 	<integer-array
 		name="broj_citata_po_strani">
 		<item>46</item>
-		<item>40</item>
+		<item>42</item>
 	</integer-array>
 	<array
 		name="citat">
