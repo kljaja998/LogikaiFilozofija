@@ -78,7 +78,7 @@ public class vezbanjeFragment extends Fragment implements FragmentInterface {
 
         String citatObjasnjenjeString = citatObjasnjenje.getString(position);
         citatObjasnjenje.recycle();
-        text_objasnjenjeCitat.setText(position+1 + ": " + citatObjasnjenjeString);
+        text_objasnjenjeCitat.setText(citatObjasnjenjeString);
 
         //
         pojamAutorString = pojamAutor.getString(position);

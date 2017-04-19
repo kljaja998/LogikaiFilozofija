@@ -56,7 +56,7 @@ public class ucenjeFragment extends Fragment {
         citatObjasnjenje.recycle();
         pojamAutor.recycle();
         position++;
-        textView1.setText(position+ ": " + objasnjenjeCitatString);
+        textView1.setText(objasnjenjeCitatString);
         textView2.setText(pojamAutorString);
         return view;
     }
