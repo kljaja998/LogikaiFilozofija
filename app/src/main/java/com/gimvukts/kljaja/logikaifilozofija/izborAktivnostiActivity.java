@@ -1,4 +1,4 @@
-package com.example.kljaja.logikaifilozofija;
+package com.gimvukts.kljaja.logikaifilozofija;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

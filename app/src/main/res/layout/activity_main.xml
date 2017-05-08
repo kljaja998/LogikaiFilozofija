@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.example.kljaja.logikaifilozofija.MainActivity"
+    tools:context="com.gimvukts.kljaja.logikaifilozofija.MainActivity"
     android:background="@drawable/use_your_brain_3">
 
     <android.support.design.widget.AppBarLayout

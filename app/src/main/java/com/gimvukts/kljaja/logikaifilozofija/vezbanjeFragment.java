@@ -1,4 +1,4 @@
-package com.example.kljaja.logikaifilozofija;
+package com.gimvukts.kljaja.logikaifilozofija;
 
 
 import android.content.res.TypedArray;
@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Random;
 
 
 /**
